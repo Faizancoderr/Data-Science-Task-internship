@@ -97,4 +97,4 @@ This repository contains four data science tasks:
 - Deadline: April 16, 2025.
 
 ## Author
-MUHAMMAD AITSAM ZULFIQAR
+Faizan ALI
